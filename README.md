@@ -8,17 +8,17 @@ A full-stack app where you log your daily learnings like:
 
 💥 Features to Build (No excuses):
 
-[]🔐 Auth — Signup/Login (JWT or Firebase)
+🔐 Auth — Signup/Login (JWT or Firebase)
 
-[]📝 Create/Edit/Delete Logs (CRUD)
+📝 Create/Edit/Delete Logs (CRUD)
 
-[]📅 Calendar View of logs (heatmap-style optional)
+📅 Calendar View of logs (heatmap-style optional)
 
-[]🔍 Search by keyword
+🔍 Search by keyword
 
-[]📈 Stats — Total entries, longest streak
+📈 Stats — Total entries, longest streak
 
-[]🌗 Dark Mode toggle
+🌗 Dark Mode toggle
 
-[]🪄 Deploy — Fully working on Vercel/Render
+🪄 Deploy — Fully working on Vercel/Render
 
